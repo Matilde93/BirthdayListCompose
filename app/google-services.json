@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480218472086",
+    "project_id": "birthdaylistcompose",
+    "storage_bucket": "birthdaylistcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480218472086:android:43737006e9d5c80b092cb7",
+        "android_client_info": {
+          "package_name": "com.example.birthdaylistcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm24Iy1VTNdAFI2CDrXqqj73YpBEe43rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
